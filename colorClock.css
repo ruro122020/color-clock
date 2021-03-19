@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  margin: 0;
+  margin-top: 140px;
+  font-size: 200px;
+  cursor: pointer;
+  color: white;
+}
+
+p {
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
