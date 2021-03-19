@@ -1,0 +1,20 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This project is a clock that changes background color as time passes. I used vanilla javascript, css, and html.",
+  "main": "colorClock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruro122020/color-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruro122020/color-clock/issues"
+  },
+  "homepage": "https://github.com/ruro122020/color-clock#readme"
+}
